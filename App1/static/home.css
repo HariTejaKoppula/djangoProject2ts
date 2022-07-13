@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.2d9fb6d88ed78c7da245998c3fef240c?rik=6yIVQd2X8PjSEg&riu=http%3a%2f%2fwww.wallpapers13.com%2fwp-content%2fuploads%2f2016%2f01%2fSunset-Background-Images-Hd-Sunset-background-images-hd-07329.jpg&ehk=7J99b98IPCvu0KnLxFH6gC%2bV%2b%2fcnD3GpSnjHO%2fJcNWE%3d&risl=&pid=ImgRaw&r=0");
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+center{
+    color: aliceblue;
+}
+button{
+    color: aqua;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
+div{
+    padding: 80px;
+}
+img{
+    padding: 20px;
+}
